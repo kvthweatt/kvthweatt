@@ -1,34 +1,43 @@
-## Howdy 👋
+# Hi there, I'm Karac Thweatt! 👋
 
-My name is Karac, for a day job and most of my working career I've worked the restaurant and bar industry.
+I'm a passionate software developer with a love for open-source contributions and innovative projects. With a strong background in full-stack development, I enjoy working on challenging problems and learning new technologies. Below you'll find more about my skills, projects, and how to get in touch with me.
 
-At night I become programmer, creator of tools. My biggest project to date is a multi-purpose cryptocurrency
+## 🔧 Technologies & Tools
 
-bot for Discord (cross platform + API ***--planned--***) called **UTTCex**. It features the ability to swap, stake,
+- **Languages:** JavaScript, TypeScript, Python, Java, C#
+- **Frameworks:** React, Angular, Node.js, Express, Spring Boot
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud:** AWS, Azure, Google Cloud Platform
 
-escrow, loan, auto trade, and more crypto features, as well as being privacy oriented.
+## 📈 GitHub Stats
 
-Inspired by [Tip.CC](https://tip.cc/) and formerly a swap bot built *for Tip.CC*, it has since evolved to be capable
+![Karac's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvthweatt&show_icons=true&theme=radical)
 
-of wallet management and no longer relies on any external bots. You may build your own bot *for UTTCex* as
+## 🏆 Top Projects
 
-UTTCex was done for Tip.CC, and your swap rates will be independent of UTTCex's rates, all the time.
+### [VysualPy](https://github.com/kvthweatt/VysualPy)
+A live node-to-code blueprint graph-based IDE designed to make building new applications fast and intuitive.
 
---------
+### UTTCex (Proprietary, not open source)
+UTTCex is a powerful, all-in-one Discord cryptocurrency bot. Featuring wallet management, swapping, staking, escrow,
+collateralized loans, auto trade, faucets, levels & perks, permanent exchange fee discounts, a service API, and more!
 
-[![Karac's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kvthweatt)](https://github.com/anuraghazra/github-readme-stats)
+### [PyBacker](https://github.com/kvthweatt/PyBacker)
+An automated backup script which allows you to chain backup directories for redundant backups, as well as set times
+for automatic backup. Perfect for storing multiple copies of a project without overwriting any last known-good backups.
 
-<!--
-**kvthweatt/kvthweatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Auto Firewall](https://github.com/kvthweatt/AutoFirewall)
+As the name suggests, this utility automatically adds bad IPs to your Windows Firewall by searching a collection
+of trustworthy IP reputation tracking sites.
 
-Here are some ideas to get you started:
+## 📫 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [kvthweatt@gmail.com](mailto:kvthweatt@gmail.com)
+- **LinkedIn:** [Karac Thweatt](https://www.linkedin.com/in/karac-thweatt)
+
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
+
+---
+
+Thanks for visiting my profile! 😊
