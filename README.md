@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C#
+- **Languages:** JavaScript, TypeScript, Python, C++, C#
 - **Frameworks:** React, Angular, Node.js, Express, Spring Boot
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions
