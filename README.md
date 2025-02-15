@@ -1,6 +1,6 @@
 # Hi there, I'm Karac Thweatt! 👋
 
-I'm a passionate software developer with a love for open-source contributions and innovative projects. With a strong background in full-stack development, I enjoy working on challenging problems and learning new technologies. Below you'll find more about my skills, projects, and how to get in touch with me.
+I'm a passionate software developer with a love for open-source contributions and innovative projects. With a strong background in full-stack development, I enjoy working on challenging problems and learning new technologies.
 
 ## 🔧 Technologies & Tools
 
