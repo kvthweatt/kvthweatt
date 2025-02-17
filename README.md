@@ -4,11 +4,11 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, C++, C#
-- **Frameworks:** React, Angular, Node.js, Express, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Languages:** Python, C++, Rust, Go, Ruby, PHP, Perl, JavaScript, SQL
+- **Frameworks:** React
+- **Databases:** MySQL
+- **Tools:** Git, Docker, [VysualPy](https://github.com/kvthweatt/VysualPy)
+- **Cloud:** AWS
 
 ## 📈 GitHub Stats
 
