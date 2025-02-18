@@ -60,10 +60,6 @@ collateralized loans, auto trade, faucets, levels & perks, permanent exchange fe
 An automated backup script which allows you to chain backup directories for redundant backups, as well as set times
 for automatic backup. Perfect for storing multiple copies of a project without overwriting any last known-good backups.
 
-### [Auto Firewall](https://github.com/kvthweatt/AutoFirewall)
-As the name suggests, this utility automatically adds bad IPs to your Windows Firewall by searching a collection
-of trustworthy IP reputation tracking sites.
-
 ## 📫 Get in Touch
 
 - **Email:** [kvthweatt@gmail.com](mailto:kvthweatt@gmail.com)
