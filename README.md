@@ -4,10 +4,43 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, C++, Rust, Go, Ruby, PHP, Perl, JavaScript, SQL
-- **Frameworks:** React
-- **Databases:** MySQL
-- **Tools:** Git, Docker, [VysualPy](https://github.com/kvthweatt/VysualPy)
+- **Languages:**
+
+![Static Badge](https://img.shields.io/badge/Python-6+%20years-gold)
+![Static Badge](https://img.shields.io/badge/C++-8+%20years-blue)
+![Static Badge](https://img.shields.io/badge/Rust-2+%20years-brown)
+![Static Badge](https://img.shields.io/badge/Go-2+%20years-lightblue)
+
+![Static Badge](https://img.shields.io/badge/Ruby-2+%20years-red)
+![Static Badge](https://img.shields.io/badge/PHP-6+%20years-orange)
+![Static Badge](https://img.shields.io/badge/Pearl-6+%20years-ffeeee)
+![Static Badge](https://img.shields.io/badge/Javascript-3+%20years-purple)
+
+![Static Badge](https://img.shields.io/badge/SQL-4+%20years-brown)
+![Static Badge](https://img.shields.io/badge/HTML-6+%20years-red)
+![Static Badge](https://img.shields.io/badge/CSS-6+%20years-red)
+![Static Badge](https://img.shields.io/badge/YAML-2+%20years-orange)
+
+- **Frameworks:**
+
+![Static Badge](https://img.shields.io/badge/React-2+%20years-purple)
+![Static Badge](https://img.shields.io/badge/Kubernetes-6+%20years-008800)
+
+- **Servers:**
+
+![Static Badge](https://img.shields.io/badge/Apache-4+%20years-orange)
+![Static Badge](https://img.shields.io/badge/NGINX-4+%20years-008800)
+
+- **Databases:**
+
+![Static Badge](https://img.shields.io/badge/MySQL%20&%20phpMyAdmin-4+%20years-gold)
+
+- **Tools:**
+
+ ![Static Badge](https://img.shields.io/badge/Git-6+%20years-008800)
+ ![Static Badge](https://img.shields.io/badge/Docker-6+%20years-blue)
+ ![Static Badge](https://img.shields.io/badge/VysualPy-<1%20year-navy)
+ 
 - **Cloud:** AWS
 
 ## 📈 GitHub Stats
