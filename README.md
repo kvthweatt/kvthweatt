@@ -50,6 +50,10 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🏆 Top Projects
 
+### [Flux](https://github.com/kvthweatt/FluxLang)
+A hybrid language, cross bred with C++, Zig, and Python, and a little bit of spice.
+Flux resembles the C-family of languages, and has many features of its parent languages while maintaining a simple, strict, and clean syntax.
+
 ### [VysualPy](https://github.com/kvthweatt/VysualPy)
 A live node-to-code blueprint graph-based IDE designed to make building new applications fast and intuitive.
 
