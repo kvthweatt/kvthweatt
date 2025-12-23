@@ -50,7 +50,7 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🏆 Top Projects
 
-### **NEW**[Un-Redactor](https://github.com/kvthweatt/unredactor)
+### **NEW** [Un-Redactor](https://github.com/kvthweatt/unredactor)
 A simple PDF whiteout tool which also has built in text editing functionality.  
 Select multiple boxes at a time and replace!
 
