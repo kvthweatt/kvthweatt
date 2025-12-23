@@ -50,6 +50,10 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🏆 Top Projects
 
+### **NEW**[Un-Redactor](https://github.com/kvthweatt/unredactor)
+A simple PDF whiteout tool which also has built in text editing functionality.  
+Select multiple boxes at a time and replace!
+
 ### [Flux](https://github.com/kvthweatt/FluxLang)
 A hybrid language, cross bred with C++, Zig, and Python, and a little bit of spice.
 Flux resembles the C-family of languages, and has many features of its parent languages while maintaining a simple, strict, and clean syntax.
