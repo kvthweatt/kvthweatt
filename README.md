@@ -22,11 +22,6 @@ I'm a passionate software developer with a love for open-source contributions an
 ![Static Badge](https://img.shields.io/badge/CSS-6+%20years-red)
 ![Static Badge](https://img.shields.io/badge/YAML-2+%20years-orange)
 
-- **Frameworks:**
-
-![Static Badge](https://img.shields.io/badge/React-2+%20years-purple)
-![Static Badge](https://img.shields.io/badge/Kubernetes-6+%20years-008800)
-
 - **Servers:**
 
 ![Static Badge](https://img.shields.io/badge/Apache-4+%20years-orange)
