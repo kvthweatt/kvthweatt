@@ -45,6 +45,10 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🏆 Top Projects
 
+### **NEW** [Auto-Secure Server](https://github.com/kvthweatt/auto-secure-server)  
+A Docker container that comes with a full security suite. Swap Apache for any server.  
+Comes with an `autoconfig.sh` for easy setup.
+
 ### **NEW** [Un-Redactor](https://github.com/kvthweatt/unredactor)
 A simple PDF whiteout tool which also has built in text editing functionality.  
 Select multiple boxes at a time and replace!
