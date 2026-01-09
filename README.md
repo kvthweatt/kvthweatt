@@ -39,10 +39,6 @@ I'm a passionate software developer with a love for open-source contributions an
  
 - **Cloud:** AWS
 
-## 📈 GitHub Stats
-
-![Checkem](github-readme-stats.vercel.app)
-
 ## 🏆 Top Projects
 
 ### **NEW** [Auto-Secure Server](https://github.com/kvthweatt/auto-secure-server)  
