@@ -41,7 +41,7 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 📈 GitHub Stats
 
-![Karac's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvthweatt&show_icons=true&theme=radical)
+![Checkem](github-readme-stats.vercel.app)
 
 ## 🏆 Top Projects
 
