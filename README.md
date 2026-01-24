@@ -37,7 +37,7 @@ I'm a passionate software developer with a love for open-source contributions an
  ![Static Badge](https://img.shields.io/badge/Docker-6+%20years-blue)
  ![Static Badge](https://img.shields.io/badge/VysualPy-<1%20year-navy)
  
-- **Cloud:** AWS
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kvthweatt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Top Projects
 
