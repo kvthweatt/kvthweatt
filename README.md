@@ -10,7 +10,7 @@ I'm a passionate software developer with a love for open-source contributions an
 ![Static Badge](https://img.shields.io/badge/C++-8+%20years-blue)
 ![Static Badge](https://img.shields.io/badge/Rust-2+%20years-brown)
 ![Static Badge](https://img.shields.io/badge/Go-2+%20years-lightblue)
-![Static Badge](https://img.shields.io/badge/Flux-%201%20year-gold)
+![Static Badge](https://img.shields.io/badge/Flux-%201%20year-silver)
 
 ![Static Badge](https://img.shields.io/badge/Ruby-2+%20years-red)
 ![Static Badge](https://img.shields.io/badge/PHP-6+%20years-orange)
@@ -41,20 +41,21 @@ I'm a passionate software developer with a love for open-source contributions an
 
 ## 🏆 Top Projects
 
-### **NEW** [Auto-Secure Server](https://github.com/kvthweatt/auto-secure-server)  
-A Docker container that comes with a full security suite. Swap Apache for any server.  
-Comes with an `autoconfig.sh` for easy setup.
-
-### **NEW** [Un-Redactor](https://github.com/kvthweatt/unredactor)
-A simple PDF whiteout tool which also has built in text editing functionality.  
-Select multiple boxes at a time and replace!
-
-### [Flux](https://github.com/kvthweatt/FluxLang)
-A hybrid language, cross bred with C++, Zig, and Python, and a little bit of spice.
-Flux resembles the C-family of languages, and has many features of its parent languages while maintaining a simple, strict, and clean syntax.
+### ***New***, [Flux](https://github.com/kvthweatt/FluxLang)
+A language with first-class data manipulation, opt-in ownership with no borrow checker, and syntax that does not make you repeat yourself.  
+Flux resembles the C-family of languages. It is neither C, nor a derivative of C. It has a fundamentally different type system while still being  
+C ABI compatible.
 
 ### [VysualPy](https://github.com/kvthweatt/VysualPy)
 A live node-to-code blueprint graph-based IDE designed to make building new applications fast and intuitive.
+
+### **New** [Un-Redactor](https://github.com/kvthweatt/unredactor)
+A simple PDF whiteout tool which also has built in text editing functionality.  
+Select multiple boxes at a time and replace!
+
+### **New** [Auto-Secure Server](https://github.com/kvthweatt/auto-secure-server)  
+A Docker container that comes with a full security suite. Swap Apache for any server.  
+Comes with an `autoconfig.sh` for easy setup.
 
 ### UTTCex (Proprietary, not open source)
 UTTCex is a powerful, all-in-one Discord cryptocurrency bot. Featuring wallet management, swapping, staking, escrow,
