@@ -6,11 +6,11 @@ I'm a passionate software developer with a love for open-source contributions an
 
 - **Languages:**
 
+![Static Badge](https://img.shields.io/badge/Flux-%201%20year-silver)
 ![Static Badge](https://img.shields.io/badge/Python-6+%20years-gold)
 ![Static Badge](https://img.shields.io/badge/C++-8+%20years-blue)
 ![Static Badge](https://img.shields.io/badge/Rust-2+%20years-brown)
 ![Static Badge](https://img.shields.io/badge/Go-2+%20years-lightblue)
-![Static Badge](https://img.shields.io/badge/Flux-%201%20year-silver)
 
 ![Static Badge](https://img.shields.io/badge/Ruby-2+%20years-red)
 ![Static Badge](https://img.shields.io/badge/PHP-6+%20years-orange)
