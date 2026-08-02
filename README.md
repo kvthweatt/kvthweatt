@@ -1,77 +1,53 @@
 # Hi there, I'm Karac Thweatt! 👋
-
 I'm a passionate software developer with a love for open-source contributions and innovative projects. With a strong background in full-stack development, I enjoy working on challenging problems and learning new technologies.
-
 ## 🔧 Technologies & Tools
-
 - **Languages:**
-
-![Static Badge](https://img.shields.io/badge/Flux-%201%20year-silver)
-![Static Badge](https://img.shields.io/badge/Python-6+%20years-gold)
-![Static Badge](https://img.shields.io/badge/C++-8+%20years-blue)
-![Static Badge](https://img.shields.io/badge/Rust-2+%20years-brown)
-![Static Badge](https://img.shields.io/badge/Go-2+%20years-lightblue)
-
-![Static Badge](https://img.shields.io/badge/Ruby-2+%20years-red)
-![Static Badge](https://img.shields.io/badge/PHP-6+%20years-orange)
-![Static Badge](https://img.shields.io/badge/Pearl-6+%20years-ffeeee)
-![Static Badge](https://img.shields.io/badge/Javascript-3+%20years-purple)
-
-![Static Badge](https://img.shields.io/badge/SQL-4+%20years-brown)
-![Static Badge](https://img.shields.io/badge/HTML-6+%20years-red)
-![Static Badge](https://img.shields.io/badge/CSS-6+%20years-red)
-![Static Badge](https://img.shields.io/badge/YAML-2+%20years-orange)
-
+![Static Badge](https://img.shields.io/badge/Flux-%202%20years-silver)
+![Static Badge](https://img.shields.io/badge/Python-7+%20years-gold)
+![Static Badge](https://img.shields.io/badge/C++-9+%20years-blue)
+![Static Badge](https://img.shields.io/badge/Rust-3+%20years-brown)
+![Static Badge](https://img.shields.io/badge/Go-3+%20years-lightblue)
+![Static Badge](https://img.shields.io/badge/Ruby-3+%20years-red)
+![Static Badge](https://img.shields.io/badge/PHP-7+%20years-orange)
+![Static Badge](https://img.shields.io/badge/Pearl-7+%20years-ffeeee)
+![Static Badge](https://img.shields.io/badge/Javascript-4+%20years-purple)
+![Static Badge](https://img.shields.io/badge/SQL-5+%20years-brown)
+![Static Badge](https://img.shields.io/badge/HTML-7+%20years-red)
+![Static Badge](https://img.shields.io/badge/CSS-7+%20years-red)
+![Static Badge](https://img.shields.io/badge/YAML-3+%20years-orange)
 - **Servers:**
-
 ![Static Badge](https://img.shields.io/badge/Apache-4+%20years-orange)
 ![Static Badge](https://img.shields.io/badge/NGINX-4+%20years-008800)
-
 - **Databases:**
-
 ![Static Badge](https://img.shields.io/badge/MySQL%20&%20phpMyAdmin-4+%20years-gold)
-
 - **Tools:**
-
  ![Static Badge](https://img.shields.io/badge/Git-6+%20years-008800)
  ![Static Badge](https://img.shields.io/badge/Docker-6+%20years-blue)
  ![Static Badge](https://img.shields.io/badge/VysualPy-<1%20year-navy)
  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kvthweatt)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏆 Top Projects
-
 ### ***New***, [Flux](https://github.com/kvthweatt/FluxLang)
 A language with first-class data manipulation, opt-in ownership with no borrow checker, and syntax that does not make you repeat yourself.  
 Flux resembles the C-family of languages. It is neither C, nor a derivative of C. It has a fundamentally different type system while still being  
 C ABI compatible.
-
 ### [VysualPy](https://github.com/kvthweatt/VysualPy)
 A live node-to-code blueprint graph-based IDE designed to make building new applications fast and intuitive.
-
 ### **New** [Un-Redactor](https://github.com/kvthweatt/unredactor)
 A simple PDF whiteout tool which also has built in text editing functionality.  
 Select multiple boxes at a time and replace!
-
 ### **New** [Auto-Secure Server](https://github.com/kvthweatt/auto-secure-server)  
 A Docker container that comes with a full security suite. Swap Apache for any server.  
 Comes with an `autoconfig.sh` for easy setup.
-
 ### UTTCex (Proprietary, not open source)
 UTTCex is a powerful, all-in-one Discord cryptocurrency bot. Featuring wallet management, swapping, staking, escrow,
 collateralized loans, auto trade, faucets, levels & perks, permanent exchange fee discounts, a service API, and more!
-
 ### [PyBacker](https://github.com/kvthweatt/PyBacker)
 An automated backup script which allows you to chain backup directories for redundant backups, as well as set times
 for automatic backup. Perfect for storing multiple copies of a project without overwriting any last known-good backups.
-
 ## 📫 Get in Touch
-
 - **Email:** [kvthweatt@gmail.com](mailto:kvthweatt@gmail.com)
 - **LinkedIn:** [Karac Thweatt](https://www.linkedin.com/in/karac-thweatt)
-
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
-
 ---
-
 Thanks for visiting my profile! 😊
