@@ -27,10 +27,9 @@ I'm a passionate software developer with a love for open-source contributions an
  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kvthweatt)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆 Top Projects
-### ***New***, [Flux](https://github.com/kvthweatt/FluxLang)
+### ***New***, [IDEKA](https://github.com/kvthweatt/IDEKA)
 A language with first-class data manipulation, opt-in ownership with no borrow checker, and syntax that does not make you repeat yourself.  
-Flux resembles the C-family of languages. It is neither C, nor a derivative of C. It has a fundamentally different type system while still being  
-C ABI compatible.
+IDEKA resembles the C-family of languages. It is neither C, nor a derivative of C. It has a fundamentally different type system while still being C ABI compatible.
 ### [VysualPy](https://github.com/kvthweatt/VysualPy)
 A live node-to-code blueprint graph-based IDE designed to make building new applications fast and intuitive.
 ### **New** [Un-Redactor](https://github.com/kvthweatt/unredactor)
